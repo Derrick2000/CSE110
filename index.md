@@ -1,6 +1,6 @@
 # Preview
 [Background](#Background) <br/>
-[Programming Experience](#Programming-Experience)
+[Programming Experience](#programming-experience)
 <br/>
 
 # Background
